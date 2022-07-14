@@ -1,2 +1,1 @@
-# education
-Educational material
+# SiliconCompiler Educational material
